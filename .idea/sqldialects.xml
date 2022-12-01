@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/system/of_accounting/for_the_activities/of_the_driving_school/professional/repository/AuthorizationDataRepository.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/system/of_accounting/for_the_activities/of_the_driving_school/professional/repository/BossRepository.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/system/of_accounting/for_the_activities/of_the_driving_school/professional/repository/DatabaseHandler.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/system/of_accounting/for_the_activities/of_the_driving_school/professional/repository/DrivingSchoolRepository.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/system/of_accounting/for_the_activities/of_the_driving_school/professional/repository/InspectorRepository.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/system/of_accounting/for_the_activities/of_the_driving_school/professional/repository/InstructorRepository.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/system/of_accounting/for_the_activities/of_the_driving_school/professional/repository/StudentRepository.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/system/of_accounting/for_the_activities/of_the_driving_school/professional/repository/TeacherRepository.java" dialect="GenericSQL" />
+  </component>
+</project>
